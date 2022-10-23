@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <html>
+<body style="background-color:aqua;">
+<div style="position:absolute;top:110px;left:800px;color:red;">
+    <img src=”download.jpg”  width="250" height="100">
+<p>Farhan Shahzad<br>House E9,block4 metroville, site, karachi<br>03150002748<br>farhanshzd9@gmail.com</p>
+</div>
+<div style="padding-left:0px;margin-top:10px; ">
+<h1 style="font-size:36pt;"><i><span style="color:orange;">Curriculum Vitae</i></h1>
+<div style="padding-left:150px;margin-top:3px; ">
+<h1 style="font-size:36pt;"><i><span style="color:green;">Farhan Shahzad</span></i></h1>
+</div>
+<div id="menu" style="background-color:aqua;width:150px;height:700px;float:left;">
+</div>
+<div id="content" style="background-color:aqua;float:left;width:700px;height:1800px;">
+<pre><h1 style="font-size:25pt;">CAREER OBJECT:</h1>
+To complete masters(msc) in cyber security.<br>and to learn more with the passage of time from all<br>types of situations and circumstances <hr>
+<h1 style="font-size:25pt;">EDUCATION AND QUALIIFICATIONS:</h1>
+      <table ">
+<tr>
+    <th>Qualification</th>
+    <th>Maximun Marks</th>
+    <th>Obtained Marks</th>
+    <th>Division</th>
+    <th>Institution</th>
+    <th>Board/University</th>
+</tr
+<tr>
+    <td>Software Engineering in progress</td>
+
+
+</tr>
+<tr>
+    <td>F.Sc.</td>
+    <td>1100</td>
+    <td>612</td>
+    <td>B</td>
+    <td>Ziaudin Intermediate College</td>
+    <td>Karach iBoard </td>
+</tr>
+<tr>
+    <td>MATRIC</td>
+    <td>850</td>
+    <td>696</td>
+    <td>A</td>
+    <td>Al sheeraz Public school</td>
+    <td>Karachi Board </td>
+</tr>
+</table>
+<hr>
+<h1 style="font-size:15pt;">TECHNICAL EXPERIENCE:</h1>
+      Languages:                  Python, HTML,
+<hr>
+<h1 style="font-size:15pt;">ABILITIES:</h1>
+      Skill Level                 MS Word, MS Excel, Power point
+      practiced                   More than 1 years                            
+<hr>
+<h1 style="font-size:15pt;">HOBBIES:</h1>
+                                  1.Footabll<br>
+                                  2.Cricket<br>
+                                  3.Badminton
+<hr> 
+<h1 style="font-size:15pt;">LANGUAGES:</h1>
+                                  Pashto,Urdu,English
+
+</div>
+</body>
+</html>
+</body>
+</html>
